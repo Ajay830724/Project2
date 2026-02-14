@@ -1,2 +1,2 @@
 # My Project 2
-a small project
+a small project.
